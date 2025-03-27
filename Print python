@@ -1,0 +1,6 @@
+# printing integer
+print (7)
+
+
+#printing strings
+print ("enter any number")
