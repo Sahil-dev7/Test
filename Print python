@@ -11,3 +11,10 @@ single line comment
 
 multi line comment 
 '''
+
+give computer input 🖥️ 
+a = ...
+
+take user input
+a = int(input())
+
