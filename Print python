@@ -18,3 +18,10 @@ a = ...
 take user input
 a = int(input())
 
+b = input()
+
+python can do calculation
+
+b = (7+8+90)
+print b
+
